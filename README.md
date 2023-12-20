@@ -1,7 +1,8 @@
 # Kiosk UI
 
 <!-- add image web.jpeg -->
-![Base Image](./public/web.jpeg?raw=true "base")
+
+![Base Image](./public/web.jpeg)
 
 ## Getting Started
 
