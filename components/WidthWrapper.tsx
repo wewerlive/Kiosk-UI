@@ -1,5 +1,3 @@
-//@ts-nocheck
-
 import type { NextComponentType, NextPageContext } from 'next';
 import { cn } from '@/lib/utils';
 

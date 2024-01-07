@@ -28,7 +28,8 @@ export default function Home() {
           It is a no-code tool simplifying the process of creation.
         </p>
         <Link
-          href='/user'
+          href='/dashboard'
+          target='_blank'
           className={buttonVariants({
             size: 'lg',
             className: 'mt-5',

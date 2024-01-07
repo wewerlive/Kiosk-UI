@@ -17,7 +17,7 @@ const Navbar: NextComponentType<NextPageContext, {}, Props> = (
             href='/'
             className='flex z-10 font-semibold'
           >
-            <span>Twin Try-On</span>
+            <span>arbuilder ..</span>
           </Link>
 
           <div className='hidden items-center space-x-4 sm:flex'>
